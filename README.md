@@ -18,7 +18,6 @@ I enjoy building clean, responsive, and user-friendly websites. With a strong fo
 ## 📂 Projects
 
 - 📝 **[ThinkBoard](https://github.com/NITHIN-2006/ThinkBoard)** – A full-stack board management app (React + Node.js)  
-- 🎨 Personal Portfolio (coming soon)  
 - 💡 More exciting projects on the way!  
 
 ---
@@ -32,8 +31,8 @@ I enjoy building clean, responsive, and user-friendly websites. With a strong fo
 
 ## 🤝 Let’s Connect
 - GitHub: [@NITHIN-2006](https://github.com/NITHIN-2006)  
-- LinkedIn: *(add your LinkedIn link if you have one)*  
-- Email: *(your email here)*  
+- LinkedIn: *www.linkedin.com/in/nithin-budumuri-3aa796330*  
+- Email: *nithinbudumuri@gmail.com*  
 
 ---
 
