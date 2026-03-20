@@ -60,8 +60,8 @@ I’m continuously learning and aiming to develop impactful web applications.
 
 ### 🤝 Connect with Me
 - GitHub: [@NITHIN-2006](https://github.com/NITHIN-2006)  
-- LinkedIn: *(Add your LinkedIn here)*  
-- Email: *nithinbudumuri@gmail.com*  
+- LinkedIn: [www.linkedin.com/in/nithin-budumuri-3aa796330]
+- Email: [nithinbudumuri@gmail.com]
 
 ---
 
