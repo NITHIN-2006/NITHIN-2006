@@ -46,7 +46,7 @@ I’m continuously learning and aiming to develop impactful web applications.
 
 -  **[ThinkBoard](https://github.com/NITHIN-2006/ThinkBoard)** – A full-stack board management app (React + Node.js)
 -  **[Pdf&Image Translator]([(https://github.com/NITHIN-2006/pdf_translator.git)])** – (FastAPI+React)  
--  **[AI-Resume-Analyzer]([https://github.com/NITHIN-2006/AI-Resume-Analyzer.git])** – (Coming soon)  
+-  **[AI-Resume-Analyzer](https://github.com/NITHIN-2006/AI-Resume-Analyzer.git)**  
 - More exciting projects on the way!  
 
 ---
