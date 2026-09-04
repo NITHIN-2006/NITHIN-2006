@@ -137,11 +137,11 @@ I build AI agents and automated workflows using **n8n**, wiring together LLM API
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NITHIN-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN-2006&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://vercel.com/nithin-2006s-projects/github-readme-stats/4kx376j8uHc3GgU4C97DFyom6YDi" width="49%" />
+<img src="https://vercel.com/nithin-2006s-projects/github-readme-stats/4kx376j8uHc3GgU4C97DFyom6YDi" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN-2006&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=NITHIN-2006&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%"/>
+<img src="https://vercel.com/nithin-2006s-projects/github-readme-stats/4kx376j8uHc3GgU4C97DFyom6YDi" width="49%"/>
+<img src="https://vercel.com/nithin-2006s-projects/github-readme-stats/4kx376j8uHc3GgU4C97DFyom6YDi" width="49%"/>
 
 </div>
 
