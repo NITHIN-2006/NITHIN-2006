@@ -4,7 +4,6 @@
 
 <a href="https://www.linkedin.com/in/nithin-budumuri-3aa796330"><img src="https://img.shields.io/badge/LINKEDIN-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" /></a>
 <a href="mailto:nithinbudumuri@gmail.com"><img src="https://img.shields.io/badge/EMAIL-bb9af7?style=for-the-badge&logo=gmail&logoColor=1a1b27" /></a>
-<a href="[LeetCode Profile URL]"><img src="https://img.shields.io/badge/LEETCODE-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b27" /></a>
 <a href="https://github.com/NITHIN-2006"><img src="https://img.shields.io/badge/GITHUB-c0caf5?style=for-the-badge&logo=github&logoColor=1a1b27" /></a>
 
 <br/>
