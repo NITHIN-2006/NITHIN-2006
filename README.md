@@ -1,155 +1,158 @@
 <div align="center">
 
-# Nithin Budumuri
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=220&section=header&text=Nithin%20Budumuri&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-### Full-Stack Developer | AI Automation Builder | Problem Solver
+<a href="https://www.linkedin.com/in/nithin-budumuri-3aa796330"><img src="https://img.shields.io/badge/LINKEDIN-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" /></a>
+<a href="mailto:nithinbudumuri@gmail.com"><img src="https://img.shields.io/badge/EMAIL-bb9af7?style=for-the-badge&logo=gmail&logoColor=1a1b27" /></a>
+<a href="[LeetCode Profile URL]"><img src="https://img.shields.io/badge/LEETCODE-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b27" /></a>
+<a href="https://github.com/NITHIN-2006"><img src="https://img.shields.io/badge/GITHUB-c0caf5?style=for-the-badge&logo=github&logoColor=1a1b27" /></a>
 
-I build full-stack applications, AI-powered systems, and automation workflows that solve practical problems.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-budumuri-3aa796330)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbudumuri@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)]([LeetCode Profile URL])
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+full-stack+applications;Designing+AI+agents+%2B+n8n+automation;Integrating+APIs+and+LLMs+into+real+tools;Practicing+DSA+in+C%2B%2B+on+LeetCode" alt="typing-svg" />
 
 </div>
 
----
+<br/>
 
 ## About Me
 
-I'm a Full-Stack Developer who builds working software rather than tutorial clones. My focus areas:
+I build software that solves an actual problem instead of another tutorial clone.
 
-- Full-stack web applications with React on the frontend and Node.js / Python on the backend
-- AI agents and workflow automation built with n8n
-- Integrating APIs and AI models into practical tools
-- REST API design and backend architecture
-- Data Structures and Algorithms in C++, with consistent LeetCode practice
+- Full-stack web applications — React on the frontend, Node.js / Python on the backend
+- AI agents and automated workflows built with **n8n**
+- APIs and AI models integrated into practical, working tools
+- Backend architecture and REST API design
+- Consistent Data Structures & Algorithms practice in C++, tracked on LeetCode
 
-I care about writing code that's maintainable and about shipping things that actually solve a problem, not just checking a technology off a list.
-
----
+<br/>
 
 ## What I Build
 
-| Area | Description |
-|---|---|
-| Full-Stack Applications | End-to-end web apps covering frontend, backend, and database layers |
-| AI Agents | Agent-based systems that automate tasks using LLMs |
-| Workflow Automation | n8n-based automation pipelines connecting APIs and services |
-| AI-Powered Tools | Applications that integrate AI models into practical, user-facing features |
-| REST APIs | Backend services and APIs built with FastAPI / Express.js |
-| Developer & Productivity Tools | Utilities that streamline everyday development or user tasks |
-| Problem-Solving Practice | Algorithmic problem solving in C++, tracked on LeetCode |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**Full-Stack Applications**
+End-to-end products spanning frontend, backend, and database layers.
+
+**AI Agents**
+Agent-driven systems that automate tasks using LLMs.
+
+**Workflow Automation**
+n8n pipelines connecting APIs and services together.
+
+</td>
+<td width="50%" valign="top">
+
+**REST APIs**
+Backend services built with FastAPI / Express.js.
+
+**AI-Powered Tools**
+User-facing applications with AI integrated in.
+
+**Problem-Solving Practice**
+Algorithmic problem solving in C++ on LeetCode.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Tech Stack
 
-**Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,fastapi,mongodb,postgres,html,css,tailwind,bootstrap,git,github,linux&theme=dark" />
+</div>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / Automation**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
----
+<br/>
 
 ## Featured Projects
 
-### ThinkBoard
-Organizing structured content shouldn't require clunky tools.
-Full-stack board management application built with React and Node.js, designed to organize and manage structured content through a responsive web interface.
+<div align="center">
 
-**Stack:** React, Node.js
-**Repo:** [github.com/NITHIN-2006/ThinkBoard](https://github.com/NITHIN-2006/ThinkBoard)
+<a href="https://github.com/NITHIN-2006/ThinkBoard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NITHIN-2006&repo=ThinkBoard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/NITHIN-2006/pdf_translator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NITHIN-2006&repo=pdf_translator&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/NITHIN-2006/AI-Resume-Analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NITHIN-2006&repo=AI-Resume-Analyzer&theme=tokyonight&hide_border=true" />
+</a>
 
-### PDF & Image Translator
-Translating documents across languages usually means juggling multiple tools.
-A FastAPI + React application that translates text content from PDFs and images, combining a Python backend with a React frontend.
+</div>
 
-**Stack:** FastAPI, React, Python
-**Repo:** [github.com/NITHIN-2006/pdf_translator](https://github.com/NITHIN-2006/pdf_translator)
+| Project | What it does | Stack |
+|---|---|---|
+| **ThinkBoard** | Full-stack board management app for organizing structured content through a responsive web interface | React, Node.js |
+| **PDF & Image Translator** | Translates text content from PDFs and images through a Python backend and React frontend | FastAPI, React, Python |
+| **AI Resume Analyzer** | Analyzes resumes against job descriptions with ATS-style scoring, skill gap analysis, and improvement suggestions | Python, FastAPI, LLM integration |
 
-### AI Resume Analyzer
-Job seekers often don't know why their resume isn't landing interviews.
-An AI-powered platform that analyzes resumes against job descriptions, providing ATS-style scoring, skill gap analysis, and improvement suggestions.
-
-**Stack:** Python, FastAPI, AI/LLM integration
-**Repo:** [github.com/NITHIN-2006/AI-Resume-Analyzer](https://github.com/NITHIN-2006/AI-Resume-Analyzer)
-
----
+<br/>
 
 ## AI & Automation
 
-I build AI agents and automated workflows using **n8n**, connecting LLM APIs, REST APIs, and databases into pipelines that handle real tasks end-to-end rather than one-off scripts.
-
-Technologies I work with in this space:
+I build AI agents and automated workflows using **n8n**, wiring together LLM APIs, REST APIs, and databases into pipelines that handle real tasks end-to-end.
 
 `n8n` · `LLM APIs` · `Groq` · `REST APIs` · `MongoDB` · `FAISS`
 
-The focus is on what these systems accomplish — automating repetitive workflows and connecting AI models to practical applications — rather than the tool list itself.
-
----
+<br/>
 
 ## Problem Solving
 
-I practice Data Structures and Algorithms consistently in C++, alongside applying Object-Oriented Programming principles in my project work.
-
 `C++` · `Data Structures & Algorithms` · `Object-Oriented Programming`
 
-**LeetCode Profile:** [LeetCode Profile URL]
+<div align="center">
 
----
+<a href="[LeetCode Profile URL]">
+  <img src="https://img.shields.io/badge/View_LeetCode_Profile-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b27" />
+</a>
+
+</div>
+
+<br/>
 
 ## Engineering Approach
 
 - Build software that solves an actual problem, not just a demo
 - Keep code clean, readable, and maintainable
-- Design backend architecture and APIs with intention, not by accident
+- Design backend architecture and APIs with intention
 - Automate repetitive work instead of doing it manually
-- Treat problem solving as a skill to train, not a one-time task
+- Train problem solving as a skill, not a one-time task
 - Keep learning and applying new tools deliberately
 
----
+<br/>
 
 ## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NITHIN-2006&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=NITHIN-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN-2006&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN-2006&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NITHIN-2006&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN-2006&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NITHIN-2006&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%"/>
 
 </div>
 
-*Stats generated via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) — both are widely used, actively maintained open-source services with no known reliability issues.*
+<div align="center">
+<img src="https://raw.githubusercontent.com/NITHIN-2006/NITHIN-2006/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
----
+*Stats via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), streak via [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), trophies via [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy). The contribution snake is generated by [platane/snk](https://github.com/Platane/snk) — see setup note below.*
+
+<br/>
 
 ## Currently Building & Improving
 
@@ -160,19 +163,21 @@ I practice Data Structures and Algorithms consistently in C++, alongside applyin
 - AI model integrations
 - Scalable, API-driven applications
 
----
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NITHIN-2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-budumuri-3aa796330)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbudumuri@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)]([LeetCode Profile URL])
-
----
+<br/>
 
 <div align="center">
 
+## Let's Connect
+
+<a href="https://github.com/NITHIN-2006"><img src="https://img.shields.io/badge/GITHUB-c0caf5?style=for-the-badge&logo=github&logoColor=1a1b27" /></a>
+<a href="https://www.linkedin.com/in/nithin-budumuri-3aa796330"><img src="https://img.shields.io/badge/LINKEDIN-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" /></a>
+<a href="mailto:nithinbudumuri@gmail.com"><img src="https://img.shields.io/badge/EMAIL-bb9af7?style=for-the-badge&logo=gmail&logoColor=1a1b27" /></a>
+<a href="[LeetCode Profile URL]"><img src="https://img.shields.io/badge/LEETCODE-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b27" /></a>
+
+<br/><br/>
+
 I'm interested in opportunities where I can build useful products, solve engineering problems, and work across full-stack and AI systems.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer" width="100%"/>
 
 </div>
