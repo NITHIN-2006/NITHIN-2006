@@ -142,7 +142,6 @@ I build AI agents and automated workflows using **n8n**, wiring together LLM API
 <img src="https://github-readme-stats-jade-five-i0pcsaciei.vercel.app/api/top-langs/?username=NITHIN-2006&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN-2006&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=NITHIN-2006&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%"/>
 
 </div>
 
