@@ -86,7 +86,7 @@ Instead of simply generating a resume score, the application analyzes how well a
 
 ---
 
-## 📄 PDF & Image Translator
+##  PDF & Image Translator
 
 **A document translation system that extracts text from PDFs and images and processes it through a web application.**
 
@@ -147,6 +147,7 @@ Automated Email Digest
 `React` → `FastAPI` → `n8n` → `LLM APIs` → `MongoDB` → `Job APIs`
 
 The goal is not just to build an AI chatbot, but to understand how **LLMs can participate in real software workflows**.
+<a href="https://github.com/NITHIN-2006/AI-Resume-Analyzer.git">View Project →</a>
 
 ---
 
@@ -162,6 +163,7 @@ Topics include:
 * Distributed data processing concepts
 
 The project is focused on making complex infrastructure concepts easier to understand through interaction rather than static diagrams.
+<a href="https://bda-project-3er89fgaa-nithin-2006s-projects.vercel.app/">View Project →</a>
 
 ---
 
@@ -225,13 +227,6 @@ Current areas of focus:
 * Binary Search
 * Object-Oriented Programming
 
-<div align="center">
-
-<a href="https://github.com/NITHIN-2006">
-<img src="https://img.shields.io/badge/C%2B%2B-DSA-7aa2f7?style=for-the-badge"/>
-</a>
-
-</div>
 
 ---
 
