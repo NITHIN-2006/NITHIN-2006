@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/nithin-budumuri-3aa796330"><img src="https://img.shields.io/badge/LINKEDIN-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" /></a>
 <a href="mailto:nithinbudumuri@gmail.com"><img src="https://img.shields.io/badge/EMAIL-bb9af7?style=for-the-badge&logo=gmail&logoColor=1a1b27" /></a>
 <a href="https://github.com/NITHIN-2006"><img src="https://img.shields.io/badge/GITHUB-c0caf5?style=for-the-badge&logo=github&logoColor=1a1b27" /></a>
-<a href="[LeetCode Profile URL]"><img src="https://img.shields.io/badge/LEETCODE-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b27" /></a>
 
 <br/>
 
@@ -63,19 +62,13 @@ I'm a student developer who builds across the stack — backend systems, mobile 
 | **PDF & Image Translator** | Extracts and translates text out of PDFs and images through a Python backend, so users aren't stuck copy-pasting into translation tools by hand | FastAPI, React, Python |
 | **ThinkBoard** | Full-stack board management app for organizing structured content through a responsive interface | React, Node.js |
 
-**Also building:** an AI-powered job search platform (n8n-orchestrated pipeline that parses resumes, discovers matching jobs via API, and emails digests automatically) and an interactive React visualizer for Hadoop internals (HDFS/MapReduce/YARN). *(Repo links to add once public — replace the row below or drop it if you'd rather keep the table to shipped work only.)*
+**Also building:** an AI-powered job search platform orchestrating resume parsing, job discovery, and automated email digests through n8n, and an interactive React visualizer for Hadoop internals (HDFS, MapReduce, YARN).
 
 <br/>
 
 ## Problem Solving
 
 `C++` · `Data Structures & Algorithms` · `Object-Oriented Programming`
-
-<div align="center">
-<a href="[LeetCode Profile URL]">
-  <img src="https://img.shields.io/badge/View_LeetCode_Profile-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b27" />
-</a>
-</div>
 
 <br/>
 
