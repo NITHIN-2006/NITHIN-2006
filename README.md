@@ -235,33 +235,41 @@ Current areas of focus:
 
 ---
 
-#  GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-jade-five-i0pcsaciei.vercel.app/api?username=NITHIN-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img
+  src="https://github-readme-stats-jade-five-i0pcsaciei.vercel.app/api?username=NITHIN-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  width="49%"
+/>
 
-<img src="https://github-readme-stats-jade-five-i0pcsaciei.vercel.app/api/top-langs/?username=NITHIN-2006&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img
+  src="https://github-readme-stats-jade-five-i0pcsaciei.vercel.app/api/top-langs/?username=NITHIN-2006&layout=compact&theme=tokyonight&hide_border=true"
+  width="30%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=NITHIN-2006&theme=tokyonight&hide_border=true"
+  width="49%"
+/>
+
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=NITHIN-2006&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
----
-
-#  3D Contribution Activity
+##  3D Contribution Activity
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+<img
+  src="./profile-3d-contrib/profile-night-green.svg"
+  width="100%"
+/>
 
 </div>
-
-<p align="center">
-My GitHub contribution activity visualized as a 3D contribution graph.
-</p>
 
 ---
 
