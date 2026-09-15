@@ -85,7 +85,7 @@ I'm a student developer who builds across the stack — backend systems, mobile 
 <img src="https://github-readme-stats-jade-five-i0pcsaciei.vercel.app/api?username=NITHIN-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats-jade-five-i0pcsaciei.vercel.app/api/top-langs/?username=NITHIN-2006&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN-2006&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=NITHIN-2006&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
 
 <div align="center">
